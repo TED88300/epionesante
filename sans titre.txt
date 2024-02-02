@@ -1,0 +1,5 @@
+
+
+
+
+           If Range("E3") = True And Len(Sheets("Pièces Actions").Cells(i, 1)) > 0 And InStr(Sheets("Pièces Actions").Cells(i, 1), Sheets("Simulator").Range("B5") ) > 0 And Sheets("Pièces Actions").Cells(i, 5) = 1 Then

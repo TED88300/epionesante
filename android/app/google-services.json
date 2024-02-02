@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205436977224",
+    "project_id": "epionemobile-76d93",
+    "storage_bucket": "epionemobile-76d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205436977224:android:f05e71977b5a9223a4d87d",
+        "android_client_info": {
+          "package_name": "fr.epionesante.epionemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205436977224-7r2loi4ob0f538uqr0qhr6mpkapqt19m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoybIWb3uz8nbP3mguVMoSaugXDGIg-fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205436977224-7r2loi4ob0f538uqr0qhr6mpkapqt19m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
